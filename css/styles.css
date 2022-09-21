@@ -6,3 +6,19 @@ body {
   width: 10%;
   height: auto;
 }
+
+.direction-north {
+  transform: rotate(-90deg);
+}
+
+.direction-east {
+  transform: rotate(0deg);
+}
+
+.direction-south {
+  transform: rotate(90deg);
+}
+
+.direction-west {
+  transform: rotate(-180deg);
+}

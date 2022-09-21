@@ -3,7 +3,9 @@ var direction = {
   north: 'vehicle direction-north',
   south: 'vehicle direction-south',
   east: 'vehicle direction-east',
-  west: 'vehicle direction-west'
+  west: 'vehicle direction-west',
+  locationX: 0,
+  locationY: 0
 };
 
 document.addEventListener('keydown', function (event) {

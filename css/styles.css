@@ -7,18 +7,18 @@ body {
   height: auto;
 }
 
-.turn-up {
+.direction-north {
   transform: rotate(-90deg);
 }
 
-.turn-right {
+.direction-east {
   transform: rotate(0deg);
 }
 
-.turn-down {
+.direction-south {
   transform: rotate(90deg);
 }
 
-.turn-left {
+.direction-west {
   transform: rotate(-180deg);
 }
